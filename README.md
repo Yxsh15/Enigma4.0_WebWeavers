@@ -1,4 +1,4 @@
-# Community Fund - Micro-Donation & Impact Tracking Platform
+# Kindry - Micro-Donation & Impact Tracking Platform
 
 **Team:** WebWeavers
 
