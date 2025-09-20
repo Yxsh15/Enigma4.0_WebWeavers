@@ -1,6 +1,7 @@
 # Community Fund - Micro-Donation & Impact Tracking Platform
 
 **Team:** WebWeavers
+
 **Team Members:** Sweety Jha(Team Lead), Vishal Kumar and Yashovardhan Poddar
 
 ## Problem Statement
